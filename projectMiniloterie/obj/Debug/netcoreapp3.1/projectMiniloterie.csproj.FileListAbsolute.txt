@@ -1,0 +1,14 @@
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projectMiniloterie\bin\Debug\netcoreapp3.1\projectMiniloterie.exe
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projectMiniloterie\bin\Debug\netcoreapp3.1\projectMiniloterie.deps.json
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projectMiniloterie\bin\Debug\netcoreapp3.1\projectMiniloterie.runtimeconfig.json
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projectMiniloterie\bin\Debug\netcoreapp3.1\projectMiniloterie.runtimeconfig.dev.json
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projectMiniloterie\bin\Debug\netcoreapp3.1\projectMiniloterie.dll
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projectMiniloterie\bin\Debug\netcoreapp3.1\projectMiniloterie.pdb
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projectMiniloterie\obj\Debug\netcoreapp3.1\projectMiniloterie.csproj.AssemblyReference.cache
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projectMiniloterie\obj\Debug\netcoreapp3.1\projectMiniloterie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projectMiniloterie\obj\Debug\netcoreapp3.1\projectMiniloterie.AssemblyInfoInputs.cache
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projectMiniloterie\obj\Debug\netcoreapp3.1\projectMiniloterie.AssemblyInfo.cs
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projectMiniloterie\obj\Debug\netcoreapp3.1\projectMiniloterie.csproj.CoreCompileInputs.cache
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projectMiniloterie\obj\Debug\netcoreapp3.1\projectMiniloterie.dll
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projectMiniloterie\obj\Debug\netcoreapp3.1\projectMiniloterie.pdb
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projectMiniloterie\obj\Debug\netcoreapp3.1\projectMiniloterie.genruntimeconfig.cache
